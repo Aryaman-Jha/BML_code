@@ -13,9 +13,9 @@ This project explores how simple local update rules generate large-scale collect
 * Configurable lattice sizes and densities
 * Density sweep experiments
 * Measurement of macroscopic observables
-* Visualization and post-processing tools
+* Visualization and post-processing tools in Jupyter
 
-## Tech Stack
+## Requirements
 
 * C++
 * OpenMP
